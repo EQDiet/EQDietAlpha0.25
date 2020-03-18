@@ -28,9 +28,9 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 3. Extract the files to any folder.
 4. Open command prompt (cmd.exe).
 5. Go to the destination folder you have extracted the files.
-6. Run "EQDietCompiler.exe /Compile" to compile source code. Capital letters and .exe extension are optional to execute this command.
+6. Run "EQDietCompiler.bat /Compile" to compile source code. Capital letters and .bat extension are optional to execute this command.
 7. Now you have compiled correctly EQDiet Alpha 0.25. Check your Build folder.
-8. If you want to generate the executable JAR file, run "EQDietCompiler.exe /Jar" to compile it.
+8. If you want to generate the executable JAR file, run "EQDietCompiler.bat /Jar" to compile it.
 9. Your JAR file will correctly generated at Release directory.
 10. If you want to get the EXE file with EQDiet icon, run Launch4j.
 11. Choose "Output file" option to the folder you want and with the executable name with .exe extansion you want.
