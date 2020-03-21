@@ -32,7 +32,9 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 7. Now you have compiled correctly EQDiet Alpha 0.25. Check your Build folder.
 8. If you want to generate the executable JAR file, run "EQDietCompiler.bat /Jar" to compile it.
 9. Your JAR file will correctly generated at Release directory.
-10. If you want to get the EXE file with EQDiet icon, run Launch4j.
+10. If you want to get the EXE file with EQDiet icon, you need to install Launch4j.
+11. Run EQDietCompiler.bat /Launch4j to download and install Launch4j.
+12. If the installation was completed successfully, run Launch4j via start menu or by searching Launch4j on the search bar.
 11. Choose "Output file" option to the folder you want and with the executable name with .exe extansion you want.
 12. Choose "Jar" option to the Release folder you generated and the JAR file name with .jar extension.
 13. Choose "Icon" option to the EQDiet icon you just have downloaded.
