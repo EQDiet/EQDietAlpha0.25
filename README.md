@@ -23,8 +23,8 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 ### Procedure:
 
 1. Set Java JDK bin folder to PATH. View [this video](https://www.youtube.com/watch?v=vhBNV8no4CI) if you don't know how to do it.
-2. Download source code by clicking "clone or download" button or by running this command:          
-   "git clone https://github.com/EQDiet/EQDietAlpha0.25.git" (Only if you have GIT installed)
+2. Download source code by clicking "clone or download" button or by running this command:
+`git clone https://github.com/EQDiet/EQDietAlpha0.25.git` (Only if you have GIT installed)
 3. Extract the files to any folder.
 4. Open command prompt (cmd.exe).
 5. Go to the destination folder you have extracted the files.
