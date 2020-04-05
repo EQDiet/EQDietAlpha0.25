@@ -39,3 +39,5 @@ You are not allowed to:
 4. Spam our inbox. Maximum email limit is 5 emails each day, in which you cannot include anything that breaks these rules.
 
 ### Finally, thanks a lot if you collaborated with us in the development of the application!
+
+#### © 2020, EQDiet
