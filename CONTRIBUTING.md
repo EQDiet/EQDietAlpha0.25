@@ -36,6 +36,6 @@ You are not allowed to:
 1. Include in the app any kind of abuse, such visible or in an easter egg.
 2. Include bad language in the app.
 3. Include a virus in the app. Note that EQDiet team always scan the app for malware at VirusTotal and, sometimes, with an another antivirus application.
-4. Spam our inbox. Maximun email limit is 5 emails each day, in which you cannot include anything that breaks these rules.
+4. Spam our inbox. Maximum email limit is 5 emails each day, in which you cannot include anything that breaks these rules.
 
 ### Finally, thanks a lot if you collaborated with us in the development of the application!
