@@ -26,6 +26,7 @@ Contributing to EQDiet development is really easy. Just follow these steps:
 ## Aditional collaboration options
 
 You also can collaborate making a table or a database with different foods.
+
 You also can collaborate giving us an idea of how we can improove our app. This will not have any collaborator advantages.
 
 ## Thing that yo are not allowed to do
