@@ -8,7 +8,7 @@ Contributing to EQDiet development is really easy. Just follow these steps:
 4. Run the app at least twice to check if it works correctly and see the functionality of the things you added/removed/modified.
 5. Copy the source code or the source code file. IMPORTANT!!! DO NOT PACK THE FILE AS A `.JAR` OR COMPILE AS A `.CLASS`. LEAVE THE `.JAVA` ORIGINAL FILE.
 6. Send an email to eqdiet@protonmail.com with this things: the full source code (pasted or as a `.java` file), the part you have modified and (optional), the reason why you've modified that.
-7. Done! Thanks a lot for contributing us!
+7. Done! Thanks a lot for contributing!
 
 ## Things that may happen when you send us the email
 
