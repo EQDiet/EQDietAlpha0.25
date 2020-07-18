@@ -18,4 +18,4 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with javac
-      run: cd EQDietAlpha0.25-src/src && javac -verbose EQDietAlpha025.java
+      run: src && javac -verbose EQDietAlpha025.java
