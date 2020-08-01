@@ -13,7 +13,7 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 #### Necessary requirements:
 
-- Latest Java SE Development Kit (JDK). Click [here](https://bit.ly/javadevelopmentkit) if you don't have it.
+- Latest Java SE Development Kit (JDK). Click [here](https://lumi.gq/jdk) if you don't have it.
 
 #### Optional requirements:
 
