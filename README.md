@@ -7,21 +7,18 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 ![Image of EQDiet](https://eqdiet.weebly.com/uploads/1/2/2/7/122786941/eqdiet_orig.png)
 
-## Building source code:
+## Building source code
 
-### Requirements:
+### Requirements
 
-#### Necessary requirements:
-
+#### Necessary requirements
 - Latest Java SE Development Kit (JDK). Click [here](https://lumi.gq/jdk) if you don't have it.
 
-#### Optional requirements:
-
+#### Optional requirements
 - EQDiet Icon. Click [here](https://drive.google.com/uc?export=download&id=1FTz1a2WWUdH8tjqEx7AUVdR1lHHBMxJK) to get it.
 - Launch4j to convert jar file to exe file. You can download it using EQDietCompiler.bat
 
-### Procedure:
-
+### Procedure
 1. Set Java JDK bin folder to PATH. View [this video](https://www.youtube.com/watch?v=vhBNV8no4CI) if you don't know how to do it.
 2. Download source code by clicking "clone or download" button or by running this command:                          
 `git clone https://github.com/EQDiet/EQDietAlpha0.25.git` (Only if you have GIT installed)
@@ -44,5 +41,6 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 17. Click "Build wrapper" icon.
 18. Done! Check the EXE output folder you have selected and now you will have an official copy of EQDiet Alpha 0.25!
 
-### Note this project is protected by the MIT License. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.25/blob/master/LICENSE).
-#### © 2020, EQDiet.
+### This project is protected by the MIT License. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.25/blob/master/LICENSE).
+
+**© 2020, EQDiet. - [eqdiet.weebly.com](https://eqdiet.weebly.com)**
